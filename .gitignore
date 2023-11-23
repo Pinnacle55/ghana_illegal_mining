@@ -2,7 +2,7 @@
 .ipynb_checkpoints/*
 Sentinel2/*
 S2A*
-output/*
+raw_data/*
 papers/*
 
 *.vrt
