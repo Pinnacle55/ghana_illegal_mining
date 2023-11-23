@@ -5,6 +5,9 @@ S2A*
 raw_data/*
 papers/*
 
+rf_model
+knn_model
+
 *.vrt
 *.tif
 *.geojson
