@@ -10,6 +10,5 @@ knn_model
 
 *.vrt
 *.tif
-*.geojson
 *.netrc
 *.aux.xml
